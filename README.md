@@ -8,7 +8,7 @@ Hola, soy un Ingeniero Electrónico y Desarrollador Full Stack en constante crec
 
 * **Base de Datos**
 
-[![Logo PostgreSQL|100](https://www.postgresql.org/media/img/about/press/elephant.png)](https://www.postgresql.org/)
+[![Logo PostgreSQL | 100](https://www.postgresql.org/media/img/about/press/elephant.png)](https://www.postgresql.org/)
 
 
 
