@@ -2,7 +2,16 @@
 
 ### Acerca de mí
 
-Soy Ingeniero Electrónico y Desarrollador Full Stack en constante crecimiento. Soy persistente, carismático y generoso, con más de 2 meses de experiencia en el despliegue de aplicaciones web. Una de mis fortalezas es la resolución de problemas. Soy autodidacta y exalumno de Alura Latam, del programa ONE (Oracle Next Education).
+Hola, soy un Ingeniero Electrónico y Desarrollador Full Stack en constante crecimiento. Soy persistente, carismático y generoso, con más de 2 meses de experiencia en el despliegue de aplicaciones web. Una de mis fortalezas es la resolución de problemas. Soy autodidacta y exalumno de Alura Latam, del programa ONE (Oracle Next Education).
+
+### Habilidades
+
+* **Base de Datos**
+
+[![Imagen de unas nubes](https://www.postgresql.org/media/img/about/press/elephant.png)](https://www.postgresql.org/)
+
+
+
 
 -----------------------------------------------------------------------
 
