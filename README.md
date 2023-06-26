@@ -6,9 +6,21 @@ Hola, soy un Ingeniero Electrónico y Desarrollador Full Stack en constante crec
 
 ### Habilidades
 
-* **Base de Datos**
+* #### **Base de Datos**
 
-[![Logo PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)](https://www.postgresql.org/)
+
+[<img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="70">][pagePostgreSQL]
+[<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="70">][pageMySQL]
+[<img src="https://d1.awsstatic.com/logos/partners/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png" height="70">][pageMariaDB]
+[<img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" height="70">][pageMongoDB]
+
+* #### **Backend**
+
+
+[<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" height="70">][pageJava]
+[<img src="https://www.armadilloamarillo.com/wp-content/uploads/spring-boot-ok.png" height="70">][pageSpringBoot]
+
+[<img src="https://nodejs.org/static/images/logo.svg" height="70">][pageNodeJS]
 
 
 
@@ -30,3 +42,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[logoPostgre]: https://www.postgresql.org/media/img/about/press/elephant.png
+[pagePostgreSQL]: https://www.postgresql.org/
+[pageMySQL]: https://www.mysql.com/
+[pageMariaDB]: https://mariadb.org/
+[pageMongoDB]: https://www.mongodb.com/
+[pageJava]: https://www.java.com
+[pageSpringBoot]: https://spring.io/projects/spring-boot
+[pageNodeJS]: https://nodejs.org/
