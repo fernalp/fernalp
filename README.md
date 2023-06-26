@@ -20,7 +20,7 @@ Hola, soy un Ingeniero Electrónico y Desarrollador Full Stack en constante crec
 [<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" height="70">][pageJava]
 [<img src="https://www.armadilloamarillo.com/wp-content/uploads/spring-boot-ok.png" height="70">][pageSpringBoot]
 
-[<img src="https://nodejs.org/static/images/logo.svg" height="70">][pageNodeJS]
+[<img src="[https://nodejs.org/static/images/logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png)" height="70">][pageNodeJS]
 
 
 
